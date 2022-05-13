@@ -1,5 +1,12 @@
 # JsonCurd
 
+ A tool that allows you to smoothly manage json files (create - modify - add - readers - delete - and more...),
+ you can also navigate to any specific part of the json file you want, easily perform the above operations on it,
+ and then save the file again.
+ The system also saves a virtual copy of the file after modification to be used without modifying the real file,
+ and it can be saved permanently whenever you want.
+ Most of the uses are in managing configuration files, and complex json files.
+
 > **Sample project for the experiment**
 
 * 🗁 myProject
